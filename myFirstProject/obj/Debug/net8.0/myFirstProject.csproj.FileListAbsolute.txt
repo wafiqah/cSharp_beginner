@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Documents\c#\myFirstProject\bin\Debug\net8.0\myFirstProject.exe
+C:\Users\USER\OneDrive\Documents\c#\myFirstProject\bin\Debug\net8.0\myFirstProject.deps.json
+C:\Users\USER\OneDrive\Documents\c#\myFirstProject\bin\Debug\net8.0\myFirstProject.runtimeconfig.json
+C:\Users\USER\OneDrive\Documents\c#\myFirstProject\bin\Debug\net8.0\myFirstProject.dll
+C:\Users\USER\OneDrive\Documents\c#\myFirstProject\bin\Debug\net8.0\myFirstProject.pdb
+C:\Users\USER\OneDrive\Documents\c#\myFirstProject\obj\Debug\net8.0\myFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documents\c#\myFirstProject\obj\Debug\net8.0\myFirstProject.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\c#\myFirstProject\obj\Debug\net8.0\myFirstProject.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\c#\myFirstProject\obj\Debug\net8.0\myFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\c#\myFirstProject\obj\Debug\net8.0\myFirstProject.dll
+C:\Users\USER\OneDrive\Documents\c#\myFirstProject\obj\Debug\net8.0\refint\myFirstProject.dll
+C:\Users\USER\OneDrive\Documents\c#\myFirstProject\obj\Debug\net8.0\myFirstProject.pdb
+C:\Users\USER\OneDrive\Documents\c#\myFirstProject\obj\Debug\net8.0\myFirstProject.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documents\c#\myFirstProject\obj\Debug\net8.0\ref\myFirstProject.dll
